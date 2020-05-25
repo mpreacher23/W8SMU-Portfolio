@@ -44,7 +44,9 @@ Your updated site should have the following content:
 
   * Screenshot of the deployed application
 
+### Updated Resume PDF LINK
 
+https://github.com/mpreacher23/W8SMU-Portfolio/blob/master/SMUResume.pdf
 
 ### Updated LinkedIn Profile 
 
