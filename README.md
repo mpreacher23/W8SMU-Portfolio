@@ -52,5 +52,5 @@ https://github.com/mpreacher23/W8SMU-Portfolio/blob/master/SMUResume.pdf
 
 https://www.linkedin.com/in/mikepreacher/
 
-### Review
+### Deployed Portfolio Review
 https://mpreacher23.github.io/W8SMU-Portfolio/
