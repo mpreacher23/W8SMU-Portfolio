@@ -174,10 +174,7 @@ label {
 .header-space-larg{
   height: 180px
 }
-.header-slider {
-  background: transparent;
-  display: block;
-}
+
 .header-middle-area {
   background: #ffffff none repeat scroll 0 0;
   display: block;
@@ -500,9 +497,8 @@ label {
   transform: scaleX(1);
   transition-timing-function: cubic-bezier(0.52, 1.64, 0.37, 0.66);
 }
-.slider-text > a i {
-  padding-left: 5px;
-}
+
+
 .white-text {
   color: #fff !important;
 }
