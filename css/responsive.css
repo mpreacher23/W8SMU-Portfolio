@@ -193,16 +193,7 @@ rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
   text-align: center;
   width: 100%;
 }
-.theme-comment-section .media-body {
-  margin-top: 0;
-  padding: 0 20px;
-  text-align: center;
-  width: 100%;
-}
-.theme-comment-section .media {
-  border: 1px solid #e5e5e5;
-  padding: 25px 0;
-}
+
 .input-field {
   width: 100%;
 }
@@ -236,11 +227,7 @@ rgba(255, 255, 255, 0.9) none repeat scroll 0 0;
   line-height: 1;
   margin-bottom: 5px;
 }
-.not-found-content h3 {
-  font-size: 15px;
-  line-height: 24px;
-  margin-bottom: 20px;
-}
+
 .single-project-title {
   font-size: 24px;
   line-height: 30px;
